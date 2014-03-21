@@ -7,12 +7,12 @@
 * @package WP Tips and Triks
 * @author Michał Załęcki <michal@zalecki.pl>
 * @license GPL-2.0+
-* @link http://example.com
+* @link http://webroad.pl/tag/wp-5-trikow-i-porad
 * @copyright 2014 Michał Załęcki
 *
 * @wordpress-plugin
 * Plugin Name: WP Tips and Triks
-* Plugin URI: @TODO
+* Plugin URI: http://webroad.pl/tag/wp-5-trikow-i-porad
 * Description: WP Tips and Triks collects useful tips and triks for WordPress programmers.
 * Version: 1.0.0
 * Author: Michał Załecki
